@@ -2,6 +2,10 @@
 
 An unofficial MuseDash chart editor for [MDMC](https://mdmc.moe/).
 
+This is an unofficial fan-made project and is not affiliated with, endorsed by, or sponsored by PeroPeroGames. MuseDash and all related assets, trademarks, and images are the property of their respective owners.
+
+If you have any question, need help or else, please join the [community Discord server](https://discord.gg/6Fgy9Y6bFm).
+
 ## Project Status
 
 This project is in early development.
